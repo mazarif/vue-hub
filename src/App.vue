@@ -10,7 +10,7 @@ import PokeApi from './components/PokeApi.vue'
   <PokeApi></PokeApi>
   <Header></Header>
   <router-link to='/pokeapi'><p>PokeApi</p></router-link>
-  <h1>PokeApi ici</h1>
+  <h1>PokeApi ici :</h1>
   <router-view></router-view>
   <all-friends></all-friends>
   <GetRequest></GetRequest>
